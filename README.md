@@ -11,10 +11,3 @@ Este proyecto consiste en un programa en JavaScript que determina los permisos d
 ## Estructura del Proyecto
 
 - **perfil.js**: Archivo principal que contiene la lógica del programa.
-
-## Cómo Ejecutar el Programa
-
-1. Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu sistema.
-2. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tuUsuario/nombreApellido_tp11.git
