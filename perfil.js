@@ -29,4 +29,3 @@ switch (perfil.toLowerCase()) {
         console.log("Debe especificar un perfil válido");
         break;
     }
-
